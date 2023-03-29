@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/static/js/main.51a8c464d457fb1b2aa6.js",
+    "main.js": "/static/js/main.0f18cfe00d6dcbb6afae.js",
     "main.css": "/static/css/main.78bb1ffe.css",
     "Login.js": "/static/js/Login.d06d1da6cfb4f93067d4.js",
     "Login.css": "/static/css/Login.22ba9991.chunk.css",
-    "Layouts.js": "/static/js/Layouts.733c9d288b7d113b45a2.js",
+    "Layouts.js": "/static/js/Layouts.aa62f7fadd245a47b3f6.js",
     "Layouts.css": "/static/css/Layouts.9800438a.chunk.css",
     "Home.js": "/static/js/Home.d7df16f94bf8e08f2269.js",
     "NotFound.js": "/static/js/NotFound.43459ab9ef14b5ecff16.js",
@@ -33,7 +33,7 @@
     "Rtk.js": "/static/js/Rtk.406e7355ce959c5ab468.js",
     "RouterDemo.js": "/static/js/RouterDemo.3ab6580a00c7f315b7c8.js",
     "Test.js": "/static/js/Test.c487418fdf3c015ed470.js",
-    "List.js": "/static/js/List.0a3e87769f0d014eca72.js",
+    "List.js": "/static/js/List.0e1379391f8f02926e98.js",
     "MyUseRouter.js": "/static/js/MyUseRouter.9f1667ce16bdd981ef35.js",
     "MyUseRouter.css": "/static/css/MyUseRouter.497c37f6.chunk.css",
     "Player.js": "/static/js/Player.c49a723e0750456cce73.js",
@@ -81,7 +81,7 @@
     "static/js/2266.js": "/static/js/2266.a79456edf9a44769dd0e.js",
     "static/js/1014.js": "/static/js/1014.b1a5f5a57c3726e0400a.js",
     "static/js/2306.js": "/static/js/2306.112c87f2173d4e9fc861.js",
-    "static/js/8607.js": "/static/js/8607.835744ba5ef1c2b2a46f.js",
+    "static/js/8607.js": "/static/js/8607.cb325ba4b0a1c79e0a5b.js",
     "static/js/577.js": "/static/js/577.61b38abb376b48190314.js",
     "static/js/7568.js": "/static/js/7568.43e58763e10baf6d8f3b.js",
     "static/js/6674.js": "/static/js/6674.ffd699d397059e733946.js",
@@ -92,15 +92,15 @@
     "static/js/7517.js": "/static/js/7517.198083945aca72a2e47c.js",
     "static/js/763.js": "/static/js/763.f0ba8537199d2be1f85f.js",
     "static/js/2711.js": "/static/js/2711.dcacc039386b7a0b3c3d.js",
-    "pdf.worker.js": "/69468d5bd4edc7cc825d52ca11be44aa.js",
+    "js": "/69468d5bd4edc7cc825d52ca11be44aa.js",
     "static/media/menu.png": "/static/media/menu.89a916930b913ea907a7.png",
     "static/media/44.png": "/static/media/44.14cb2ca438987aaadbbc.png",
     "static/media/88.png": "/static/media/88.5ac17a57e3ea7c33d3ad.png",
     "index.html": "/index.html"
   },
   "entrypoints": [
-    "static/js/8607.835744ba5ef1c2b2a46f.js",
-    "static/js/main.51a8c464d457fb1b2aa6.js",
+    "static/js/8607.cb325ba4b0a1c79e0a5b.js",
+    "static/js/main.0f18cfe00d6dcbb6afae.js",
     "static/css/main.78bb1ffe.css"
   ]
 }
