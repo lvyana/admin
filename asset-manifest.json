@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.js": "/static/js/main.d9dfb28ee1abaae2f8ce.js",
+    "main.js": "/static/js/main.763d111ef3b56fd3fc79.js",
     "main.css": "/static/css/main.78bb1ffe.css",
     "Login.js": "/static/js/Login.d06d1da6cfb4f93067d4.js",
     "Login.css": "/static/css/Login.22ba9991.chunk.css",
@@ -92,7 +92,7 @@
     "static/js/7517.js": "/static/js/7517.198083945aca72a2e47c.js",
     "static/js/763.js": "/static/js/763.f0ba8537199d2be1f85f.js",
     "static/js/2711.js": "/static/js/2711.dcacc039386b7a0b3c3d.js",
-    "js": "/69468d5bd4edc7cc825d52ca11be44aa.js",
+    "pdf.worker.js": "/69468d5bd4edc7cc825d52ca11be44aa.js",
     "static/media/menu.png": "/static/media/menu.89a916930b913ea907a7.png",
     "static/media/44.png": "/static/media/44.14cb2ca438987aaadbbc.png",
     "static/media/88.png": "/static/media/88.5ac17a57e3ea7c33d3ad.png",
@@ -100,7 +100,7 @@
   },
   "entrypoints": [
     "static/js/8607.835744ba5ef1c2b2a46f.js",
-    "static/js/main.d9dfb28ee1abaae2f8ce.js",
+    "static/js/main.763d111ef3b56fd3fc79.js",
     "static/css/main.78bb1ffe.css"
   ]
 }
