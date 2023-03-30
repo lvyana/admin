@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.js": "/static/js/main.9df79a868a4d46374e49.js",
+    "main.js": "/static/js/main.d3a811807d42654bf778.js",
     "main.css": "/static/css/main.447d9d32.css",
     "Home.js": "/static/js/Home.7e985389ae2f14b6d221.js",
     "NotFound.js": "/static/js/NotFound.43459ab9ef14b5ecff16.js",
@@ -55,7 +55,7 @@
     "reactPlayerPreview.js": "/static/js/reactPlayerPreview.88a419c4fb5ca56f36e5.js",
     "static/js/6473.js": "/static/js/6473.fcaf5908a1914a2c7332.js",
     "static/js/8941.js": "/static/js/8941.0bf09297af2ba77224bb.js",
-    "static/js/4461.js": "/static/js/4461.f94b1482e366608c99ad.js",
+    "static/js/4461.js": "/static/js/4461.fa48e8e6bcef9f5626a5.js",
     "static/js/577.js": "/static/js/577.61b38abb376b48190314.js",
     "static/js/6674.js": "/static/js/6674.ffd699d397059e733946.js",
     "static/js/6991.js": "/static/js/6991.6af2c313425d1041eccc.js",
@@ -69,8 +69,8 @@
     "index.html": "/index.html"
   },
   "entrypoints": [
-    "static/js/4461.f94b1482e366608c99ad.js",
-    "static/js/main.9df79a868a4d46374e49.js",
+    "static/js/4461.fa48e8e6bcef9f5626a5.js",
+    "static/js/main.d3a811807d42654bf778.js",
     "static/css/main.447d9d32.css"
   ]
 }
