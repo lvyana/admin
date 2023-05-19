@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkreact_app=self.webpackChunkreact_app||[]).push([[6842],{58164:function(a,e,n){n.r(e);var t=n(29439),c=(n(72791),n(57689)),r=n(11087),u=n(80184);e.default=function(){(0,c.TH)(),(0,c.UO)();var a=(0,r.lr)(),e=(0,t.Z)(a,2),n=e[0],i=e[1];return(0,u.jsxs)("div",{onClick:function(){i("ab=2")},children:["List",n.get("ab")]})}}}]);
