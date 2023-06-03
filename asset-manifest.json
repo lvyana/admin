@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/static/js/main.6b5c82cba45c43796f9b.js",
-    "main.css": "/static/css/main.bbab8f2c.css",
+    "main.js": "/static/js/main.a34e4f1919e934a95833.js",
+    "main.css": "/static/css/main.9c4107c1.css",
     "Home.js": "/static/js/Home.6a6bd407c51a909edd66.js",
     "NotFound.js": "/static/js/NotFound.ee1378e3022dfec5566f.js",
     "MyCenter.js": "/static/js/MyCenter.32140515c6ad92306691.js",
@@ -46,7 +46,7 @@
     "Pdf.css": "/static/css/Pdf.89a7bac0.chunk.css",
     "I18n.js": "/static/js/I18n.8c081f87b4e8233ff99e.js",
     "Dnd.js": "/static/js/Dnd.118bbdb8a7a5d10d270c.js",
-    "Burstd.js": "/static/js/Burstd.d92c760302320172813a.js",
+    "Burstd.js": "/static/js/Burstd.f2cb36a28ba589a57574.js",
     "EasyTyper.js": "/static/js/EasyTyper.74cafec0b0f424086294.js",
     "Volta.js": "/static/js/Volta.9140dbec07c6db3b58d4.js",
     "Markdown.js": "/static/js/Markdown.36868863f820d90434c0.js",
@@ -87,7 +87,7 @@
   "entrypoints": [
     "static/js/antd.2c89014b9bf49f4933f8.js",
     "static/js/react-dom.407723224ebf2cac1523.js",
-    "static/js/main.6b5c82cba45c43796f9b.js",
-    "static/css/main.bbab8f2c.css"
+    "static/js/main.a34e4f1919e934a95833.js",
+    "static/css/main.9c4107c1.css"
   ]
 }
