@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkreact_app=self.webpackChunkreact_app||[]).push([[6473],{41339:function(e,i,n){n.r(i),n(72791);var r=n(75202),c=n(94805),s=n(80184);i.default=function(){return(0,s.jsxs)(c.Z,{children:[(0,s.jsx)(r.r6,{MaxWidth:1e3,children:(0,s.jsx)("div",{children:"大于1000 隐藏"})}),(0,s.jsx)(r.go,{MinWidth:900,children:(0,s.jsx)("div",{children:"小于900 隐藏"})})]})}}}]);
