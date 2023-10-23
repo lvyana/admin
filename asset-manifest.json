@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/static/js/main.36383af71fdfd76a9c3b.js",
+    "main.js": "/static/js/main.b79d592295286b4a950b.js",
     "main.css": "/static/css/main.982956a9.css",
     "Home.js": "/static/js/Home.4ee0d249dfa3dc26f007.js",
     "NotFound.js": "/static/js/NotFound.3116203721b5f172014c.js",
-    "MyCenter.js": "/static/js/MyCenter.a4afd8f90598b0d40018.js",
+    "MyCenter.js": "/static/js/MyCenter.c6f635e7636489f62e82.js",
     "MyCenter.css": "/static/css/MyCenter.8312d66e.chunk.css",
     "MessgeCenter.js": "/static/js/MessgeCenter.29ee5d14502d038e7c1b.js",
     "expenses.js": "/static/js/expenses.3b8b1ee0c7e16bc87b91.js",
@@ -65,7 +65,7 @@
     "reactPlayerKaltura.js": "/static/js/reactPlayerKaltura.b7b3c56b92555d4fe25e.js",
     "reactPlayerFilePlayer.js": "/static/js/reactPlayerFilePlayer.dac48f8b3ef64ab5f66b.js",
     "reactPlayerPreview.js": "/static/js/reactPlayerPreview.4e61d6dd9783a8914d71.js",
-    "antd.js": "/static/js/antd.779f212dc9adb1c5c2a1.js",
+    "antd.js": "/static/js/antd.fb1226f3aa5ec59319e8.js",
     "refractor.js": "/static/js/refractor.f910e8777062d1bdb125.js",
     "react-dom.js": "/static/js/react-dom.b010e33c8043a9174d57.js",
     "static/js/8965.js": "/static/js/8965.bbb093adac305f307a34.js",
@@ -78,7 +78,7 @@
     "static/js/8616.js": "/static/js/8616.8cbc3193a4500d3f76a0.js",
     "static/js/763.js": "/static/js/763.5888d5c0cdb95ef7d031.js",
     "static/js/5498.js": "/static/js/5498.d8614a5d25a350efc4ec.js",
-    "static/js/8583.js": "/static/js/8583.c7cc30fdbc622e4875ed.js",
+    "static/js/8583.js": "/static/js/8583.dfebbb5647e412862310.js",
     "static/media/title.pdf": "/static/media/title.80c9fc23337351f81bfb.pdf",
     "static/media/menu.png": "/static/media/menu.89a916930b913ea907a7.png",
     "static/media/reactRouterDomV6.md": "/static/media/reactRouterDomV6.a71e030eff0a5bcbbc6e.md",
@@ -89,10 +89,10 @@
     "static/media/branch.md": "/static/media/branch.98e9d5a761f778f20027.md"
   },
   "entrypoints": [
-    "static/js/antd.779f212dc9adb1c5c2a1.js",
+    "static/js/antd.fb1226f3aa5ec59319e8.js",
     "static/js/refractor.f910e8777062d1bdb125.js",
     "static/js/react-dom.b010e33c8043a9174d57.js",
-    "static/js/main.36383af71fdfd76a9c3b.js",
+    "static/js/main.b79d592295286b4a950b.js",
     "static/css/main.982956a9.css"
   ]
 }
