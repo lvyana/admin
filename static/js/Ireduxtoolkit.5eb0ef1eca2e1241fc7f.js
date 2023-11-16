@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkreact_app=self.webpackChunkreact_app||[]).push([[2339],{89957:(e,a,c)=>{c.r(a),c.d(a,{default:()=>u});var s=c(72791),n=c(15255),r=c(21615),t=c(94805),p=c(80184);const u=()=>{const e=(0,n.TL)();(0,s.useEffect)((()=>{e((0,r.r3)())}),[]);const a=(0,n.CG)(r.PC);return(0,p.jsx)(t.Z,{children:a.map((e=>(0,p.jsx)("div",{children:e.name},e.name)))})}}}]);
