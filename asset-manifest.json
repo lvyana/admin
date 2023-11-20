@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.js": "/static/js/main.8e62544955ef16604497.js",
+    "main.js": "/static/js/main.920a60d155a9f0f5e103.js",
     "main.css": "/static/css/main.f74233dd.css",
     "Home.js": "/static/js/Home.541a45cc6dc6430c8bb1.js",
     "NotFound.js": "/static/js/NotFound.cedb0ec207fdb5667e0e.js",
@@ -92,7 +92,7 @@
     "static/js/antd.4d96e0636e32eda3fb34.js",
     "static/js/refractor.c890784f2b3f2d7dc978.js",
     "static/js/react-dom.9264136f6d8702ed5e45.js",
-    "static/js/main.8e62544955ef16604497.js",
+    "static/js/main.920a60d155a9f0f5e103.js",
     "static/css/main.f74233dd.css"
   ]
 }
