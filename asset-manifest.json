@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.js": "/static/js/main.7d8d703d2e90b5028a7c.js",
+    "main.js": "/static/js/main.a52a8bc33d40d756bdd9.js",
     "main.css": "/static/css/main.f7ea1a77.css",
     "Home.js": "/static/js/Home.dc4a91a6.chunk.js",
     "NotFound.js": "/static/js/NotFound.5f7f8961.chunk.js",
@@ -96,8 +96,8 @@
     "static/image/22.png": "/static/image/22b2ad7.png",
     "static/image/66.png": "/static/image/661ca3c.png",
     "static/image/33.png": "/static/image/33b90b4.png",
-    "static/image/layout1.jpg": "/static/image/layout17abed.jpg",
     "index.html": "/index.html",
+    "static/image/layout1.jpg": "/static/image/layout17abed.jpg",
     "static/media/useState.md": "/static/media/useState.be3725da420814e42bad.md",
     "static/image/layout.jpg": "/static/image/layout311f4.jpg",
     "static/media/branch.md": "/static/media/branch.98e9d5a761f778f20027.md"
@@ -105,7 +105,7 @@
   "entrypoints": [
     "static/js/antd.9a8e893dda28746d4030.js",
     "static/js/react-dom.4e9095c4b56b15d96abd.js",
-    "static/js/main.7d8d703d2e90b5028a7c.js",
+    "static/js/main.a52a8bc33d40d756bdd9.js",
     "static/css/main.f7ea1a77.css"
   ]
 }
