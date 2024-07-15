@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkreact_app=self.webpackChunkreact_app||[]).push([[4566],{94195:(e,r,s)=>{s.r(r),s.d(r,{default:()=>p});s(72791);var c=s(57689),a=s(94805),t=s(2641),n=s(80184);const p=()=>{const e=(0,c.s0)();return(0,n.jsxs)(a.Z,{children:["示例详情见:",(0,n.jsx)(t.ZP,{type:"link",onClick:()=>{e("/react/hooks/forwardRef")},children:"跳转"})]})}}}]);
